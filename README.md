@@ -1,6 +1,6 @@
-# Projeto MyMoney + ReactJS + Firebase - `DevPleno - DevReact`
+# Projeto MyMoney + ReactJS + Firebase - DevPleno - DevReact
 
-Projeto para portifólio - [DevReact](https://www.devpleno.com/) - [Tulio Faria](https://github.com/tuliofaria/)
+Projeto para portfólio - [DevReact](https://www.devpleno.com/) - [Tulio Faria](https://github.com/tuliofaria/)
 
 ## Demo
 
