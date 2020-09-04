@@ -7,11 +7,9 @@ import Movimentacoes from './pages/Movimentacoes'
 function App() {
   return (
     <Router>
-      <div>
-        <Header />
-        <Route path='/' exact component={Home} />
-        <Route path='/movimentacoes/:data' exact component={Movimentacoes} />
-      </div>
+      <Header />
+      <Route path="/" exact component={Home} />
+      <Route path="/movimentacoes/:data" component={Movimentacoes} />
     </Router>
   )
 }
